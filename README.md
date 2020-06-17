@@ -1,1 +1,1 @@
-Retire a palavra "master" após baixar o arquivo!
+Retire a "-master" após baixar o arquivo!
